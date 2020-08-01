@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351571317575",
+    "firebase_url": "https://spontinate.firebaseio.com",
+    "project_id": "spontinate",
+    "storage_bucket": "spontinate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351571317575:android:cb31a487e724a9d4e23262",
+        "android_client_info": {
+          "package_name": "com.example.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351571317575-vd186e2guccm2d896a2l7lj28188inad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351571317575-vd186e2guccm2d896a2l7lj28188inad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

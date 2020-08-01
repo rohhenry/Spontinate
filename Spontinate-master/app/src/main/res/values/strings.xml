@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spontinate</string>
+    <string name="free_button">Find Others!</string>
+    <string name="freetime">I\'m Free Until</string>
+    <string name="hinta1">Enter Time</string>
+    <string name="message_dialog">What do you want to do?</string>
+    <string name="other_free_users">Bored Friends:</string>
+</resources>
